@@ -1368,7 +1368,7 @@ Laajenna sovellusta siten, että näytettävää anekdoottia on mahdollista ää
 
 ![](../../images/1/19a.png)
 
-**Huom:** kunkin anekdootin äänet kannattanee tallettaa komponentin tilassa olevan olion kenttiin tai taulukkoon. Muista, että tilan oikeaoppinen päivittäminen edellyttää olion tai taulukon <i>kopioimista</i>.
+**Huom:** ääniä varten kannattanee luoda uusi tila, johon kunkin anekdootin äänet talletetaan joko olion kenttiin tai taulukkoon. Muista, että tilan oikeaoppinen päivittäminen edellyttää olion tai taulukon <i>kopioimista</i>.
 
 Olio voidaan kopioida esim. seuraavasti
 
